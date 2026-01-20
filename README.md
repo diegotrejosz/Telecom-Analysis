@@ -19,7 +19,7 @@ Identificar perfiles de clientes con mayor riesgo de churn.
 
 Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · Matplotlib · Seaborn · Jupyter Notebook
 
-#🧪 Methodology
+# 🧪 Methodology
 
 EDA: análisis descriptivo, correlaciones y visualización.
 Preprocesamiento: limpieza, One-Hot Encoding, escalado (StandardScaler).
@@ -38,7 +38,7 @@ Clientes senior y sin partner presentan mayor riesgo.
 No hay diferencias relevantes por género.
 Baja adopción de servicios adicionales.
 
-#✅ Results & Conclusion
+# ✅ Results & Conclusion
 
 Modelo final: XGBoost optimizado.
 ROC-AUC: 0.844, superando a Random Forest y Regresión Logística.
