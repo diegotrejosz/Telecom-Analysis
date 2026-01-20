@@ -1,4 +1,4 @@
-## 📡 Telecom Customer Churn Prediction
+## 📡 TELECOM CUSTOMER CHURN PREDICTION
 
 Machine Learning Project
 
